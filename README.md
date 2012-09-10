@@ -1,4 +1,4 @@
 atari-colour-wheel
 ==================
 
-Draw a colourful wheel in Atari Basic
+Neil Harris' code from _Compute!'s First Book of Atari_ (1981) for drawing a colourful wheel in graphics mode 7.
